@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git learing.
 version 2;
 1111111;
+Git has a mutable index called stage.
